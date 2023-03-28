@@ -53,7 +53,7 @@ body {
 .main-text-box h1{
     font-size: 60px;
     color: var(--white);
-    font-weight: 900;
+    font-weight: 800;
 }
 
 .hero-text p{
@@ -90,7 +90,8 @@ body {
     align-items: center;
     width: 80%;
     height: 80vh;
-    background: linear-gradient(180deg, #63D471 0%, #233329 100%);
+    background: linear-gradient(180deg, #00AB55  0%, #007B55 
+    100%);
     border-radius: 30px;
 }
 
